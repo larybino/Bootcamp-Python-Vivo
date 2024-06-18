@@ -5,3 +5,5 @@
 2- Desafio de projeto: Otimizando o Sistema Bancário com Funções Python - sistema_bancario_otimizado
 
 3- Desafio de projeto: Modelando o Sistema Bancário em POO com Python - sistema_bancario_otimizado_poo
+
+4- Desafio de projeto: Desenvolvendo sua Primeira API com FastAPI, Python e Docker -workoutApi
