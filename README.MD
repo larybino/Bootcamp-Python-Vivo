@@ -9,3 +9,5 @@
 4- Desafio de projeto: Desenvolvendo sua Primeira API com FastAPI, Python e Docker - workoutApi
 
 5- Desafio de projeto: Criando Uma API Com FastAPI Utilizando TDD - tdd_api
+
+6- Desafio de projeto: Natural ou Fake Natty? Como Vencer na Era das IAs Generativas! - lab_natty_or_not
